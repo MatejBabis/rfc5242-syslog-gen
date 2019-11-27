@@ -1,4 +1,4 @@
-#RFC 5424-compliant Syslog generator
+# RFC 5424-compliant Syslog generator
 
 A script that generates random `syslog` messages adhering to the [RFC 5242](https://tools.ietf.org/html/rfc5424) standard.
 
